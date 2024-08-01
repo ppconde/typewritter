@@ -1,5 +1,4 @@
-import { useEffect, useRef, useState } from "react";
-import { ReactNode, FC } from "react";
+import { useEffect, useRef, useState, ReactNode, FC } from "react";
 
 interface TypewriterProps {
     children: ReactNode[];
